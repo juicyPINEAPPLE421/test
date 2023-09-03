@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <title>My Web </title>
+    <style>
+      img.profile {
+        width: 100px;
+        border-radius: 50px;
+        float: left;
+        margin-right: 100px;
+      }
+
+      p.username {
+        font-weight: bold;
+      }
+    </style>
+  </head>
+
+  <body>
+    <img class="profile" src="images/emoji death meme lol.jpg" />
+    <p class="username">@hairyn</p>
+    <p>Whats up </p>
+    <img src="images/monke_smile.jpg" alt="no"/>
+  </body>
+</html>
